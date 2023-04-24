@@ -9,3 +9,5 @@ Wel heb ik een kleine Arduino module doorgelopen de code daarvan is ook bijgevoe
 
 Ik ben nu zoveel mogelijk Java aan het leren voordat mijn Traject bij ITVitae begint.
 Ik ben momenteel bezig met het boek "Head First Java'.
+
+Ook ben ik begonnen met zoveel mogelijk op Git te zetten om gewend te raken aan version control. 
